@@ -8,13 +8,13 @@ importers:
 
   .:
     devDependencies:
-      '@antfu/eslint-config':
+      '@skbhati199/eslint-config':
         specifier: ^2.18.1
         version: 2.18.1(@vue/compiler-sfc@3.3.10)(eslint@9.3.0)(typescript@5.4.5)(vitest@1.6.0(@types/node@20.12.12))
-      '@antfu/ni':
+      '@skbhati199/ni':
         specifier: ^0.21.12
         version: 0.21.12
-      '@antfu/utils':
+      '@skbhati199/utils':
         specifier: ^0.7.8
         version: 0.7.8
       '@types/node':
@@ -60,7 +60,7 @@ packages:
     resolution: {integrity: sha512-30iZtAPgz+LTIYoeivqYo853f02jBYSd5uGnGpkFV0M3xOt9aN73erkgYAmZU43x4VfqcnLxW9Kpg3R5LC4YYw==}
     engines: {node: '>=6.0.0'}
 
-  '@antfu/eslint-config@2.18.1':
+  '@skbhati199/eslint-config@2.18.1':
     resolution: {integrity: sha512-6LkzQa96SHt47ZCvAcLJbQLUXmcpl9wI+eo5OeyB2YhHbsUBX7ufT0r4x6fx6Ci2694HRNLl8wY42LUvwidduw==}
     hasBin: true
     peerDependencies:
@@ -106,14 +106,14 @@ packages:
       svelte-eslint-parser:
         optional: true
 
-  '@antfu/install-pkg@0.3.3':
+  '@skbhati199/install-pkg@0.3.3':
     resolution: {integrity: sha512-nHHsk3NXQ6xkCfiRRC8Nfrg8pU5kkr3P3Y9s9dKqiuRmBD0Yap7fymNDjGFKeWhZQHqqbCS5CfeMy9wtExM24w==}
 
-  '@antfu/ni@0.21.12':
+  '@skbhati199/ni@0.21.12':
     resolution: {integrity: sha512-2aDL3WUv8hMJb2L3r/PIQWsTLyq7RQr3v9xD16fiz6O8ys1xEyLhhTOv8gxtZvJiTzjTF5pHoArvRdesGL1DMQ==}
     hasBin: true
 
-  '@antfu/utils@0.7.8':
+  '@skbhati199/utils@0.7.8':
     resolution: {integrity: sha512-rWQkqXRESdjXtc+7NRfK9lASQjpXJu1ayp7qi1d23zZorY+wBHVLHHoVcMsEnkqEBWTFqbztO7/QdJFzyEcLTg==}
 
   '@babel/code-frame@7.24.2':
@@ -1279,7 +1279,7 @@ packages:
     peerDependencies:
       eslint: '*'
 
-  eslint-plugin-antfu@2.2.0:
+  eslint-plugin-skbhati199@2.2.0:
     resolution: {integrity: sha512-QHzHYP+fyfhSkIdcuT9JZ4rCPuJOoHRE27gglPYHlJ6lxB7pO9i45yAy4aurx/rleBuEC27U4c//1Nwtbasj4Q==}
     peerDependencies:
       eslint: '*'
@@ -2846,9 +2846,9 @@ snapshots:
       '@jridgewell/gen-mapping': 0.3.5
       '@jridgewell/trace-mapping': 0.3.25
 
-  '@antfu/eslint-config@2.18.1(@vue/compiler-sfc@3.3.10)(eslint@9.3.0)(typescript@5.4.5)(vitest@1.6.0(@types/node@20.12.12))':
+  '@skbhati199/eslint-config@2.18.1(@vue/compiler-sfc@3.3.10)(eslint@9.3.0)(typescript@5.4.5)(vitest@1.6.0(@types/node@20.12.12))':
     dependencies:
-      '@antfu/install-pkg': 0.3.3
+      '@skbhati199/install-pkg': 0.3.3
       '@clack/prompts': 0.7.0
       '@stylistic/eslint-plugin': 2.1.0(eslint@9.3.0)(typescript@5.4.5)
       '@typescript-eslint/eslint-plugin': 7.9.0(@typescript-eslint/parser@7.9.0(eslint@9.3.0)(typescript@5.4.5))(eslint@9.3.0)(typescript@5.4.5)
@@ -2857,7 +2857,7 @@ snapshots:
       eslint-config-flat-gitignore: 0.1.5
       eslint-flat-config-utils: 0.2.5
       eslint-merge-processors: 0.1.0(eslint@9.3.0)
-      eslint-plugin-antfu: 2.2.0(eslint@9.3.0)
+      eslint-plugin-skbhati199: 2.2.0(eslint@9.3.0)
       eslint-plugin-command: 0.2.3(eslint@9.3.0)
       eslint-plugin-eslint-comments: 3.2.0(eslint@9.3.0)
       eslint-plugin-import-x: 0.5.0(eslint@9.3.0)(typescript@5.4.5)
@@ -2891,13 +2891,13 @@ snapshots:
       - typescript
       - vitest
 
-  '@antfu/install-pkg@0.3.3':
+  '@skbhati199/install-pkg@0.3.3':
     dependencies:
       '@jsdevtools/ez-spawn': 3.0.4
 
-  '@antfu/ni@0.21.12': {}
+  '@skbhati199/ni@0.21.12': {}
 
-  '@antfu/utils@0.7.8': {}
+  '@skbhati199/utils@0.7.8': {}
 
   '@babel/code-frame@7.24.2':
     dependencies:
@@ -4066,9 +4066,9 @@ snapshots:
     dependencies:
       eslint: 9.3.0
 
-  eslint-plugin-antfu@2.2.0(eslint@9.3.0):
+  eslint-plugin-skbhati199@2.2.0(eslint@9.3.0):
     dependencies:
-      '@antfu/utils': 0.7.8
+      '@skbhati199/utils': 0.7.8
       eslint: 9.3.0
 
   eslint-plugin-command@0.2.3(eslint@9.3.0):
