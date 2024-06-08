@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "packageManager": "pnpm@9.1.1",
   "description": "Convert an ICO file to a PNG file.",
-  "author": "Anthony Fu <anthonyfu117@hotmail.com>",
+  "author": "Sonu Kumar <skbhati199@gmail.com>",
   "license": "MIT",
   "funding": "https://github.com/sponsors/skbhati199",
   "homepage": "https://github.com/skbhati199/ico-to-png#readme",
