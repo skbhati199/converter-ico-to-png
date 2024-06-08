@@ -8,9 +8,6 @@
 
 Convert an ICO file to a PNG file.
 
-> **Note**:
-> Replace `converter-ico-to-png`, `Convert an ICO file to a PNG file.` and `skbhati199` globally to use this template.
-
 ## Sponsors
 
 <p align="center">
