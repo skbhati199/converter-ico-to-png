@@ -21,7 +21,7 @@ Convert an ICO file to a PNG file.
 
 ## License
 
-[MIT](./LICENSE) License © 2023-PRESENT [Anthony Fu](https://github.com/skbhati199)
+[MIT](./LICENSE) License © 2023-PRESENT [Sonu Kumar](https://github.com/skbhati199)
 
 <!-- Badges -->
 
