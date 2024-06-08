@@ -1,5 +1,5 @@
 {
-  "name": "ico-to-png",
+  "name": "converter-ico-to-png",
   "type": "module",
   "version": "0.0.1",
   "packageManager": "pnpm@9.1.1",
@@ -7,12 +7,12 @@
   "author": "Sonu Kumar <skbhati199@gmail.com>",
   "license": "MIT",
   "funding": "https://github.com/sponsors/skbhati199",
-  "homepage": "https://github.com/skbhati199/ico-to-png#readme",
+  "homepage": "https://github.com/skbhati199/converter-ico-to-png#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/skbhati199/ico-to-png.git"
+    "url": "git+https://github.com/skbhati199/converter-ico-to-png.git"
   },
-  "bugs": "https://github.com/skbhati199/ico-to-png/issues",
+  "bugs": "https://github.com/skbhati199/converter-ico-to-png/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
