@@ -1,7 +1,7 @@
 // @ts-check
-import skbhati199 from '@skbhati199/eslint-config'
+import antfu from '@antfu/eslint-config'
 
-export default skbhati199(
+export default antfu(
   {
     ignores: [
       // eslint ignore globs here
