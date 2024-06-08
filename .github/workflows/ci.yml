@@ -75,7 +75,7 @@ jobs:
           node-version: ${{ matrix.node }}
 
       - name: Setup
-        run: npm i -g @skbhati199/ni
+        run: npm i -g @antfu/ni
 
       - name: Install
         run: nci
